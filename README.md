@@ -1,4 +1,4 @@
-# react-boilerplate- Webapp
+# React-boilerplate- Webapp
 This is to reference for initializing new application in react eject mode. 
 
 
